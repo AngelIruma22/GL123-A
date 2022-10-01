@@ -1,0 +1,34 @@
+.pagina {
+    background-color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.inicio {
+    font-weight: bold;
+    text-align: center;
+    color: gold;
+    padding: 20px;
+}
+.titulo2{
+    font-weight: bolder;
+    color: gold;
+    padding: 20px;
+}
+.escritura{
+    color: whitesmoke;
+    padding: 15px;
+}
+.vinculos{
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+    margin: 5px;
+}
+.footer {
+  text-align: center;
+  padding: 10px;
+  background-color: black;
+  color: white;
+}
+.auto{
+    color: goldenrod;
+}
