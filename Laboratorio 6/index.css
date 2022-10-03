@@ -1,0 +1,90 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+body {
+    margin: 0px;
+}
+
+header {
+    background-color: white;
+    overflow: auto;
+}
+
+.menu {
+    width: 100%;
+    list-style-type: none;
+}
+
+.j-l{
+    float: left;
+    list-style-type: none;
+}
+
+header img {
+    width: 15%;
+    float: left;
+}
+
+.icono {
+    padding: 15px;
+}
+
+
+header nav {
+    width: 25%;
+    text-align: right;
+}
+
+header ul {
+    width: 15%;
+    list-style-type: none;
+    margin: 0px;
+}
+
+.flex{
+    list-style-type: none;
+}
+.flex {
+    display: flex;
+    justify-content: space-evenly;
+    border: 3px solid greenyellow;
+}
+
+.footer-logos{
+    list-style-type: none;
+    
+}
+
+.logo {
+    height: 75px;
+}
+
+.menu-item {
+    padding: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.menu-item a {
+    color: gray;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 900;
+    text-decoration: none;
+    position: sticky;
+}
+
+.mw-100 {
+    max-width: 100%;
+    height: 250px;
+}
+
+.footer-utp{
+margin-right: 150px;
+}
+
+.footer-fisc{
+    margin-left: 150px;
+    
+}
